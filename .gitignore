@@ -1,0 +1,4 @@
+data/
+*.Cmn
+__pycache__/
+*.png
